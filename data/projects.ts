@@ -8,7 +8,7 @@ export interface Project {
 export const projects: Project[] = [
   {
     name: "Prior Adventures",
-    link: "https://www.prioradventures.com",
+    link: "https://www.youtube.com/@prioradventures6727",
     thumbnail: "/images/projects/prior-adventures-videos.jpg",
     description: "Video collection documenting our family adventures and experiences."
   },
