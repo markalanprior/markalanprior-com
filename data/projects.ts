@@ -40,7 +40,7 @@ export const projects: Project[] = [
     name: "Workouts",
     link: "https://pace.markalanprior.com",
     thumbnail: "/images/pexels-gochrisgoxyz-1526790.jpg",
-    description: "Track your training and progress."
+    description: "I built a personal Strava"
   }
 ];
 
