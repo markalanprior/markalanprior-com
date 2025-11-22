@@ -35,6 +35,12 @@ export const projects: Project[] = [
     link: "https://sandiegoorienteering.org",
     thumbnail: "/images/sdo.png",
     description: "No trail. No mercy."
+  },
+  {
+    name: "Workouts",
+    link: "https://pace.markalanprior.com",
+    thumbnail: "/images/pexels-gochrisgoxyz-1526790.jpg",
+    description: "Track your training and progress."
   }
 ];
 
